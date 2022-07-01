@@ -27,6 +27,9 @@ justify-content: space-between;
   &:hover {
     background-color: #F1A85B;
     cursor: pointer;
+    -webkit-box-shadow: 3px 4px 18px -3px rgba(255,255,255,1);
+    -moz-box-shadow: 3px 4px 18px -3px rgba(255,255,255,1);
+    box-shadow: 3px 4px 18px -3px rgba(255,255,255,1)
   }
  }
 `
