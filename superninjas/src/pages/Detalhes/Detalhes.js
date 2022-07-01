@@ -12,7 +12,7 @@ export default class Detalhes extends React.Component {
                     <p>Até 'Data' por 'Valor'</p>
                     <p>Descrição</p>
                     <button>Adicionar ao carrinho</button>
-                    <button>Voltar para lista</button>
+                    <button>Voltar para lista.</button>
                 </CardDetalhes>
             </Top>
         )
