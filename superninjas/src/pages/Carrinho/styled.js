@@ -6,6 +6,9 @@ export const FecharValor = styled.div`
     padding-left: 150px;
     padding-right: 120px;
     margin-top: 10px;
+    p {
+        color: #0f3e65;
+    }
     button {
         margin-top: 5px;
         padding-left: 20px;
