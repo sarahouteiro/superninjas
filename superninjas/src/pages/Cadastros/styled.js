@@ -29,6 +29,6 @@ export const InputsFiltros = styled.div`
 `
 
 export const Lista = styled.div`
-display: grid;
-grid-template-columns: 1fr 1fr 1fr 1fr;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 `

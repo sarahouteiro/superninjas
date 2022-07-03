@@ -1,7 +1,7 @@
 import React from 'react';
 import { GlobalStyled, Header, Buttons} from './styled'
 import logo from './assets/images/superninjas.png'
-import Detalhes from './pages/Detalhes/Detalhes'
+import Carrinho from './pages/Carrinho/Carrinho'
 
 export default class App extends React.Component {
   render() {
@@ -15,7 +15,7 @@ export default class App extends React.Component {
                 <button>carrinho</button>
               </Buttons>
           </Header>
-        <Detalhes/>
+        <Carrinho/>
       </div>
     );
   }
